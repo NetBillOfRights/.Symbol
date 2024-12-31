@@ -3,3 +3,4 @@ search: https://www.google.com/search?q=metaverse+government Favorite: https://b
 
 Inspire.
 - https://playtoearn.com/news/south-korean-government-is-now-working-on-a-metaverse-industry-promotion-act
+- https://www.blockchain-council.org/news/multiverse-labs-launches-government-backed-metaverse-city-in-uae/
